@@ -1,14 +1,4 @@
-# TalIA Landing Page - React + Typescript + Chakra UI + Tailwind + Jest + React Testing Library
 
-![cover]("../assets/../../src/assets/demo.jpg)
-![](https://img.shields.io/badge/FrontEnd-React.JS-aqua) ![](https://img.shields.io/badge/Typescript-blue) ![](https://img.shields.io/badge/Jest-yellow)
-
-### 🎛️ Dependencias
-
-- [Typescript](https://www.typescriptlang.org/)
-- [React](https://pt-br.reactjs.org/)
-- [Chakra](https://chakra-ui.com/)
-- [Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
 ### 🎯 Objetivo
 
