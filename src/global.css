@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: local('DM Sans'),
+      url('../public/fonts/DMSans-Light.ttf') format('truetype');
+    font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('DM Sans'),
+    url('../public/fonts/DMSans-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: local('DM Sans'), url('../public/fonts/DMSans-Medium.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('DM Sans'),
+    url('../public/fonts/DMSans-SemiBold.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('DM Sans'), url('../public/fonts/DMSans-Bold.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 900;
+  src: local('DM Sans'),
+    url('../public/fonts/DMSans-Black.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Hanken Grotesk';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Hanken Grotesk'),
+    url('../public/fonts/HankenGrotesk-Light.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+font-family: 'Hanken Grotesk';
+font-style: normal;
+font-weight: 400;
+src: local('Hanken Grotesk'),
+  url('../public/fonts/HankenGrotesk-Regular.ttf') format('truetype');
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Hanken Grotesk';
+font-style: normal;
+font-weight: 500;
+src: local('Hanken Grotesk'), url('../public/fonts/HankenGrotesk-Medium.ttf') format('truetype');
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Hanken Grotesk';
+font-style: normal;
+font-weight: 600;
+src: local('Hanken Grotesk'),
+  url('../public/fonts/HankenGrotesk-SemiBold.ttf') format('truetype');
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Hanken Grotesk';
+font-style: normal;
+font-weight: 700;
+src: local('Hanken Grotesk'), url('../public/fonts/HankenGrotesk-Bold.ttf') format('truetype');
+font-display: swap;
+}
+
+@font-face {
+font-family: 'Hanken Grotesk';
+font-style: normal;
+font-weight: 900;
+src: local('Hanken Grotesk'),
+  url('../public/fonts/HankenGrotesk-Black.ttf') format('truetype');
+font-display: swap;
+}
+
+
+image {
+  content-visibility: auto;
+}
+
+
+
